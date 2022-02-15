@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@sanity/cli": "^2.27.0",
+    "global": "^4.4.0"
+  }
+}
